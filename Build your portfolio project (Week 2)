@@ -1,0 +1,25 @@
+Week 2: MVP Complete
+
+During the second week of building the Recipe Finder Chatbot, I focused on developing the Minimum Viable Product (MVP) of the project. The primary goal was to create a functional chatbot that could understand user queries and provide relevant recipes as responses.
+
+Accomplishments:
+
+Natural Language Understanding (NLU): I implemented a natural language understanding module to process user queries. This involved training a machine learning model on a dataset of recipe-related questions and answers. The NLU module enables the chatbot to extract important information from user input, such as the type of recipe, ingredients, or cooking instructions.
+
+Recipe Database Integration: I integrated a recipe database into the chatbot. The database contains a vast collection of recipes, categorized by various attributes like cuisine, dietary restrictions, ingredients, and difficulty level. The chatbot can now search for recipes based on user preferences and provide accurate results.
+
+User Interface (UI): I developed a basic user interface for the chatbot, allowing users to interact with it through a web-based interface. The UI includes an input box where users can enter their queries, and the chatbot's responses are displayed in a chat-like format. The UI provides a user-friendly experience and enhances the overall usability of the chatbot.
+
+Recipe Recommendation: The chatbot is now capable of recommending recipes based on user preferences. By analyzing the input provided by the user, such as preferred cuisine, dietary restrictions, or ingredients to include or exclude, the chatbot filters the recipe database and presents the most relevant options to the user.
+
+Next Steps:
+
+Refinement of NLU: Although the NLU module is functional, it can be further improved to enhance its accuracy and understand a wider range of user queries. I will continue training the model on additional data and fine-tuning it to handle various types of user inputs more effectively.
+
+Expanded Database: While the current recipe database is sufficient for basic functionality, I plan to expand it by adding more recipes and refining the existing entries. This will provide users with a broader selection of recipes and ensure a better user experience.
+
+Personalization: To make the chatbot more personalized, I aim to implement user profiles that can store individual preferences. This will allow the chatbot to remember user preferences and provide tailored recipe recommendations based on their previous interactions.
+
+Error Handling: I will work on improving the error handling capabilities of the chatbot. This includes handling cases where the user query is ambiguous or cannot be understood. The chatbot should gracefully handle such situations and prompt the user for clarification.
+
+By completing the MVP, I have established the core functionality of the Recipe Finder Chatbot. The chatbot can understand user queries, search a recipe database, and recommend recipes based on user preferences. Moving forward, I will continue to refine and expand the chatbot to provide an even more robust and user-friendly experience.
